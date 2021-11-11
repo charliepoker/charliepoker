@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@__achor__" target="blank"><img src="https://img.shields.io/twitter/follow/@__achor__?logo=twitter&style=for-the-badge" alt="@__achor__" /></a> </p>
 
-- 🔭 I’m currently working on **charlie-bank**
+- 🔭 I’m currently working on **loan-app**
 
 - 🌱 I’m currently learning **Nodejs**
 
