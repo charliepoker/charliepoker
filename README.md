@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obinna Iheanacho</h1>
-<h3 align="center">I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation and Software Development Life Cycle.</h3>
+<h3 align="center">I am a DevOps Engineer with a proven track record of streamlining software development and delivery processes. Skilled in automation, configuration management, and continuous integration and delivery (CI/CD), with expertise in cloud infrastructure and containerization technologies. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charliepoker&label=Profile%20views&color=0e75b6&style=flat" alt="charliepoker" /> </p>
 
@@ -7,16 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/@__achor__" target="blank"><img src="https://img.shields.io/twitter/follow/@__achor__?logo=twitter&style=for-the-badge" alt="@__achor__" /></a> </p>
 
-- 🌱 I’m currently learning: Kubernetes
+- 🌱 I’m currently working on projects
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 <!-- - 💬 Ask me about **html,css,bootstrap,javascript,react,nodejs,mongoDB,mySql,postgres,java,springboot,** -->
 - 📫 How to reach me **iheanachocharlie@gmail.com**
 - ⚡ Fun fact **I think i like to eat.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@__achor__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@__achor__" height="30" width="40" /></a>
+## 🤝 Let's connect
+<a href="https://www.linkedin.com/in/obinna-iheanacho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+ <a href="mailto:iheanachocharlie@gmail.com@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
+
+
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
