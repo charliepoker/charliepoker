@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@__achor__" target="blank"><img src="https://img.shields.io/twitter/follow/@__achor__?logo=twitter&style=for-the-badge" alt="@__achor__" /></a> </p>
 
-- 🌱 I’m currently writing scripts to automate test cases and test scenarios
+- 🌱 I’m currently writing scripts to automate test cases and test scenarios.
 - 👯 I’m looking to collaborate on: Software Quality Assurance Testing, Test Automation, and DevOps.
 <!-- - 💬 Ask me about **html,css,bootstrap,javascript,react,nodejs,mongoDB,mySql,postgres,java,springboot,** -->
 - 📫 How to reach me **iheanachocharlie@gmail.com**
-- ⚡ Fun fact **I am obsessed with deliverying quality and reliable software.**
+- ⚡ Fun fact :**I am obsessed with deliverying quality and reliable software.**
 
 ## 🤝 Let's connect
 <a href="https://www.linkedin.com/in/obinna-iheanacho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
