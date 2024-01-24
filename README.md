@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obinna Iheanacho</h1>
-<h3 align="center">I am a DevOps Engineer with a proven track record of streamlining software development and delivery processes. Skilled in automation, configuration management, and continuous integration and delivery (CI/CD), with expertise in cloud infrastructure and containerization technologies. </h3>
+<h3 align="center">I am a Quality Assurance Engineer with a comprehensive skill set in developing and maintaining test cases, testing scripts, test frameworks, utilizing tools like Selenium, JUnit, TestNG, and Cypress. My proficiency extends to integrating these tests within CI/CD pipelines, ensuring robust and consistent testing throughout the software development lifecycle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charliepoker&label=Profile%20views&color=0e75b6&style=flat" alt="charliepoker" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@__achor__" target="blank"><img src="https://img.shields.io/twitter/follow/@__achor__?logo=twitter&style=for-the-badge" alt="@__achor__" /></a> </p>
 
-- 🌱 I’m currently working on projects
-- 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
+- 🌱 I’m currently writing scripts to automate test cases and test scenarios
+- 👯 I’m looking to collaborate on: Software Quality Assurance Testing, Test Automation, and DevOps.
 <!-- - 💬 Ask me about **html,css,bootstrap,javascript,react,nodejs,mongoDB,mySql,postgres,java,springboot,** -->
 - 📫 How to reach me **iheanachocharlie@gmail.com**
-- ⚡ Fun fact **I think i like to eat.**
+- ⚡ Fun fact **I am obsessed with deliverying quality and reliable software.**
 
 ## 🤝 Let's connect
 <a href="https://www.linkedin.com/in/obinna-iheanacho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
