@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@__achor__" target="blank"><img src="https://img.shields.io/twitter/follow/@__achor__?logo=twitter&style=for-the-badge" alt="@__achor__" /></a> </p>
 
-- 🌱 I’m currently writing scripts to automate test cases and test scenarios.
+- 🌱 I’m currently working on Craftista , a microservices application where I designed CI/CD pipelines with GitHub Actions and deploying to AWS EKS.
 - 👯 I’m looking to collaborate on: Software Quality Assurance Testing, Test Automation, and DevOps.
 <!-- - 💬 Ask me about **html,css,bootstrap,javascript,react,nodejs,mongoDB,mySql,postgres,java,springboot,** -->
 - 📫 How to reach me **iheanachocharlie@gmail.com**
