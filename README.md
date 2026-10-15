@@ -1,54 +1,60 @@
-<h1 align="center">Hi 👋, I'm Obinna Iheanacho</h1>
-<h3 align="center">DevOps Engineer with expertise in automation, CI/CD pipelines, cloud infrastructure, and containerization. Proficient in tools like Jenkins, GitHub Actions, Docker, Kubernetes, and Terraform, as well as scripting (Bash, Python, PowerShell) and infrastructure as code (IaC). Experienced in optimizing performance and reliability using monitoring solutions like Prometheus and Grafana.Recently, I worked on Craftista , a microservices application where I designed CI/CD pipelines with GitHub Actions, containerized services using Docker, and deployed them on AWS EKS with Kubernetes manifests. Passionate about automating workflows, building scalable systems, and driving operational excellence.When I’m not coding, I explore emerging technologies, write technical blogs, and collaborate with teams to solve real-world challenges. Let’s connect and build something impactful together!</h3>
+# Obinna Iheanacho
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charliepoker&label=Profile%20views&color=0e75b6&style=flat" alt="charliepoker" /> </p>
+**DevOps / SRE Engineer** · London, Ontario, Canada
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charliepoker" alt="charliepoker" /></a> </p>
+I build and operate cloud infrastructure — AWS, Kubernetes, Terraform, CI/CD, and the
+observability that catches problems before users notice them.
 
-<p align="left"> <a href="https://twitter.com/@__achor__" target="blank"><img src="https://img.shields.io/twitter/follow/@__achor__?logo=twitter&style=for-the-badge" alt="@__achor__" /></a> </p>
+Currently open to remote SRE, Platform, Cloud and DevOps roles in Canada.
 
-- 🌱 I’m currently working on Craftista , a microservices application where I designed CI/CD pipelines with GitHub Actions and deploying to AWS EKS.
-- 👯 I’m looking to collaborate on: Software Quality Assurance Testing, Test Automation, and DevOps.
-<!-- - 💬 Ask me about **html,css,bootstrap,javascript,react,nodejs,mongoDB,mySql,postgres,java,springboot,** -->
-- 📫 How to reach me **iheanachocharlie@gmail.com**
-- ⚡ Fun fact :**I am obsessed with deliverying quality and reliable software.**
+[LinkedIn](https://www.linkedin.com/in/obinna-iheanacho/) ·
+[Blog](https://dev-acho.hashnode.dev) ·
+[iheanachocharlie@gmail.com](mailto:iheanachocharlie@gmail.com)
 
-## 🤝 Let's connect
-<a href="https://www.linkedin.com/in/obinna-iheanacho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
- <a href="mailto:iheanachocharlie@gmail.com@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
-</p>
+---
 
+## Stack
 
+| | |
+|---|---|
+| **Cloud** | AWS — EKS, EC2, RDS, VPC, IAM, Route 53, KMS, SSM, ECR |
+| **Containers** | Kubernetes (kubeadm, EKS), Docker, Helm |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **CI/CD & GitOps** | GitHub Actions, Argo CD, Argo Rollouts, Jenkins |
+| **Observability** | Prometheus, Grafana, kube-prometheus-stack, CloudWatch |
+| **Supply chain security** | Trivy, Semgrep, Gitleaks, Cosign, Kyverno, SBOM |
+| **Scripting** | Bash, Python, Linux |
 
-## 🔧Technologies and Tools
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IAC-AWSCloudFormation-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Jenkins,ArgoCD-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+---
 
-<h3 align="left">Languages</h3>
-<p align="left"> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charliepoker&show_icons=true&locale=en&layout=compact" alt="charliepoker" /></p>
+**[Robot Shop on AWS EKS](https://github.com/charliepoker/REPO)**
+Production-grade EKS platform built with Terraform — VPC, Karpenter autoscaling, RDS,
+ACM, KMS. CI/CD in GitHub Actions authenticating via OIDC with no static credentials,
+security gates surfaced in code scanning, signed images with SBOM attestation, and
+GitOps delivery through Argo CD with analysis-gated canary releases.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charliepoker&show_icons=true&locale=en" alt="charliepoker" /></p>
+**[Raspberry Pi Kubernetes Homelab](https://github.com/charliepoker/k8s-raspberrypi-homelab)**
+Three-node ARM64 cluster on kubeadm running WordPress, Podinfo, and a full observability
+stack. Gateway API with Let's Encrypt TLS via DNS-01, Kyverno admission policies, and
+eight production-layer failure modes debugged and documented.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charliepoker&" alt="charliepoker" /></p>
+**[Craftista Multi-Environment AWS Infrastructure](https://github.com/charliepoker/REPO)**
+Terraform modules provisioning dev, staging, and prod EKS clusters across three AZs.
+Three-tier VPC, keyless EC2 access via SSM, multi-AZ RDS, and per-environment budgets
+with tiered alerting.
+
+---
+
+## Writing
+
+I write up the builds — including the parts that break — at
+[dev-acho.hashnode.dev](https://dev-acho.hashnode.dev).
+
+---
+
+## Currently
+
+- Preparing for the CKA
+- Open to remote SRE, Platform, and DevOps roles — reach me at the email above
