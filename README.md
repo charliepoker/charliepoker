@@ -1,6 +1,6 @@
 # Obinna Iheanacho
 
-**DevOps / SRE Engineer** · London, Ontario, Canada
+**DevOps / SRE Engineer** · Ontario, Canada
 
 I build and operate cloud infrastructure, covering AWS, Kubernetes, Terraform, CI/CD, and the observability that catches problems before users notice them.
 
