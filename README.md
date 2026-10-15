@@ -2,8 +2,7 @@
 
 **DevOps / SRE Engineer** · London, Ontario, Canada
 
-I build and operate cloud infrastructure — AWS, Kubernetes, Terraform, CI/CD, and the
-observability that catches problems before users notice them.
+I build and operate cloud infrastructure, covering AWS, Kubernetes, Terraform, CI/CD, and the observability that catches problems before users notice them.
 
 Currently open to remote SRE, Platform, Cloud and DevOps roles in Canada.
 
@@ -30,10 +29,7 @@ Currently open to remote SRE, Platform, Cloud and DevOps roles in Canada.
 ## Projects
 
 **[Robot Shop on AWS EKS](https://github.com/charliepoker/REPO)**
-Production-grade EKS platform built with Terraform — VPC, Karpenter autoscaling, RDS,
-ACM, KMS. CI/CD in GitHub Actions authenticating via OIDC with no static credentials,
-security gates surfaced in code scanning, signed images with SBOM attestation, and
-GitOps delivery through Argo CD with analysis-gated canary releases.
+Production-grade EKS platform built with Terraform, featuring a VPC, Karpenter autoscaling, RDS, ACM, and KMS. CI/CD runs in GitHub Actions authenticating via OIDC with no static credentials, security gates surfaced in code scanning, signed images with SBOM attestation, and GitOps delivery through Argo CD with analysis-gated canary releases.
 
 **[Raspberry Pi Kubernetes Homelab](https://github.com/charliepoker/k8s-raspberrypi-homelab)**
 Three-node ARM64 cluster on kubeadm running WordPress, Podinfo, and a full observability
@@ -49,7 +45,7 @@ with tiered alerting.
 
 ## Writing
 
-I write up the builds — including the parts that break — at
+I document my builds and share the parts that break at
 [dev-acho.hashnode.dev](https://dev-acho.hashnode.dev).
 
 ---
@@ -57,4 +53,4 @@ I write up the builds — including the parts that break — at
 ## Currently
 
 - Preparing for the CKA
-- Open to remote SRE, Platform, and DevOps roles — reach me at the email above
+- Open to remote SRE, Platform, and DevOps roles. Reach me at the email abov
